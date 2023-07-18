@@ -33,9 +33,9 @@ I am currently engaged in the pursuit of acquiring knowledge and skills in the f
 
 ### Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="Texto alternativo" align="right" width="50px" height="50px">
 
-- [ArchLinux ith Gnome Installation Guide](https://github.com/josmarqu/Arch-Linux-Gnome-Installation-Guide)
+- [ArchLinux + Gnome Installation Guide](https://github.com/josmarqu/Arch-Linux-Gnome-Installation-Guide)
 
-### Linux <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Texto alternativo" align="right" width="50px" height="50px">
+### Docker <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Texto alternativo" align="right" width="50px" height="50px">
 
 - [McServer](https://github.com/josmarqu/Mcserver-Docker)
 
